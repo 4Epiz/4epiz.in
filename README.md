@@ -41,5 +41,6 @@ Start the server
  - [x] Index Page
  - [x] Technologies Page
  - [x] Programming Langs. Page
+ - [x] Projects Page
  - [ ] Settings.json Enhanced Editing Environment
  - [ ] Ability to change background color temporarily
